@@ -1,0 +1,19 @@
+{
+  "name": "hwaas",
+  "version": "0.0.1",
+  "description": "Hello World as a Service - the ultimate in digital friendliness",
+  "main": "app/index.js",
+  "scripts": {
+    "build": "cp index-src.js app/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/floyd-may/hwaas.git"
+  },
+  "author": "Floyd May",
+  "license": "proprietary",
+  "bugs": {
+    "url": "https://github.com/floyd-may/hwaas/issues"
+  },
+  "homepage": "https://github.com/floyd-may/hwaas"
+}
