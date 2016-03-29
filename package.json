@@ -1,6 +1,6 @@
 {
   "name": "hwaas",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Hello World as a Service - the ultimate in digital friendliness",
   "main": "app/index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/floyd-may/hwaas/issues"
   },
-  "homepage": "https://github.com/floyd-may/hwaas"
+  "homepage": "https://github.com/floyd-may/hwaas",
+  "dependencies": {
+    "ejs": "^2.4.1"
+  }
 }
